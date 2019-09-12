@@ -1,0 +1,15 @@
+{
+ "db_name": "_a08697a9f7a73a61",
+ "db_password": "8Gk6AUUQsHl7xTTG",
+ "db_type": "mariadb",
+ "nginx_port": 90,
+ "domains": [
+  {
+   "ssl_certificate": "/etc/letsencrypt/live/erp1.mada.trading/fullchain.pem",
+   "ssl_certificate_key": "/etc/letsencrypt/live/erp1.mada.trading/privkey.pem",
+   "domain": "erp1.mada.trading"
+  }
+ ],
+ "ssl_certificate": "/etc/letsencrypt/live/erp1.mada.trading/fullchain.pem",
+ "ssl_certificate_key": "/etc/letsencrypt/live/erp1.mada.trading/privkey.pem"
+}
